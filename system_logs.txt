@@ -1,0 +1,6 @@
+[2026-11-19 08:01:12] [INFO] Application started successfully.
+[2026-11-19 08:15:40] [WARNING] High memory usage detected (84%).
+[2026-11-19 08:22:05] [ERROR] Database connection timeout.
+[2026-11-19 09:05:19] [INFO] Scheduled backup completed.
+[2026-11-19 09:41:00] [ERROR] Failed to fetch configuration from remote server.
+[2026-11-19 10:12:33] [WARNING] Disk space below 15% on /var/log.
